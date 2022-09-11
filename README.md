@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KIRAN KUMAR U</h1>
-<h3 align="center">A passionate developer from INDIA trying to autimate all the stuff he finds</h3>
+<h3 align="center">A passionate developer from INDIA trying to automate all the stuff he finds</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
