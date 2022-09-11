@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm KIRAN KUMAR U</h1>
-<h3 align="center">A passionate developer from INDIA trying to automate all the stuff he finds</h3>
-## 💫 About Me:
+# Hi 👋, I'm KIRAN KUMAR U
+# A passionate developer from INDIA trying to automate all the stuff he finds
+# 💫 About Me:
 🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Machine Learning<br>
 
 
